@@ -2,4 +2,4 @@
 > myMean <- function(assignment) { 
    return(sum(assignment)/length(assignment)) 
    }
-> print (myMean(assignment))# Assignment2
+> print (myMean(assignment))
